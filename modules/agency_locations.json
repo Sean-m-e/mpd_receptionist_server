@@ -1,0 +1,99 @@
+{
+  "version": "1.0",
+  "client": "agency",
+  "company_name": "Your Local Agency",
+  "market": "Sydney Eastern Suburbs",
+  "state": "NSW",
+  "demo_note": "Demo company - represents any local agency in Australia",
+  
+  "suburbs": [
+    "Bondi",
+    "North Bondi",
+    "Bondi Beach",
+    "Bondi Junction",
+    "Tamarama",
+    "Bronte",
+    "Clovelly",
+    "Coogee",
+    "Randwick",
+    "Waverley",
+    "Queens Park",
+    "Centennial Park",
+    "Woollahra",
+    "Paddington",
+    "Double Bay",
+    "Rose Bay",
+    "Vaucluse",
+    "Bellevue Hill",
+    "Dover Heights",
+    "Watsons Bay"
+  ],
+  
+  "neighboring_suburbs": [
+    "Maroubra",
+    "South Coogee",
+    "Kingsford",
+    "Kensington",
+    "Daceyville",
+    "Eastgardens",
+    "Mascot",
+    "Surry Hills",
+    "Darlinghurst",
+    "Potts Point"
+  ],
+  
+  "market_description": "Sydney Eastern Suburbs including Bondi, Bronte, Coogee, and surrounding beachside areas",
+  
+  "service_areas": {
+    "primary": [
+      "Bondi",
+      "North Bondi",
+      "Bondi Beach",
+      "Tamarama",
+      "Bronte",
+      "Clovelly"
+    ],
+    "secondary": [
+      "Coogee",
+      "Randwick",
+      "Waverley",
+      "Queens Park",
+      "Dover Heights"
+    ]
+  },
+  
+  "local_landmarks": [
+    "Bondi Beach",
+    "Bondi Icebergs",
+    "Bondi Junction Westfield",
+    "Bronte Beach",
+    "Tamarama Beach",
+    "Coogee Beach",
+    "Centennial Park",
+    "Royal Randwick Racecourse"
+  ],
+  
+  "street_suffixes": [
+    "Street",
+    "St",
+    "Road",
+    "Rd",
+    "Avenue",
+    "Ave",
+    "Drive",
+    "Dr",
+    "Court",
+    "Ct",
+    "Place",
+    "Pl",
+    "Crescent",
+    "Cres",
+    "Circuit",
+    "Lane",
+    "Way",
+    "Grove",
+    "Parade",
+    "Terrace",
+    "Promenade"
+  ]
+}
